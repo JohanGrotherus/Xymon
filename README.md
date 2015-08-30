@@ -3,7 +3,7 @@
 #                                 #
 ################################### 
 
-1. replication.vbs
+> replication.vbs
 
 This script prints basic domain information and then uses WMI queries to check for errors in replication from
 the particular domain controller. 
