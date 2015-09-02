@@ -11,4 +11,4 @@ the particular domain controller.
 To use the script, add the script in the BBWin external folder and add the following to the externals section
 of bbwin.cfg
 
-< load value="../ext/replication.vbs" timer="300s" />
+<load value="..\ext\replication.vbs" timer="300s" />
